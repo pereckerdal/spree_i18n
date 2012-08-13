@@ -246,9 +246,9 @@ sv-SE:
   allow_ssl_to_be_used_when_in_developement_and_test_modes: "Använd SSL i utvecklings- och testläge"
   allow_ssl_to_be_used_when_in_production_mode: "Använd SSL i produtionsläge"
   allowed_ssl_in_production_mode: "SSL kommer %{not} användas i produktionsläge"
-  already_registered: "Redan Registrerad?"
-  alt_text: "Alternativ Text"
-  alternative_phone: "Alternativt Telefonnummer"
+  already_registered: "Redan registrerad?"
+  alt_text: "Alternativ text"
+  alternative_phone: "Alternativt telefonnummer"
   amount: Belopp
   analytics_trackers: Statistikspårare
   api: 
@@ -275,7 +275,7 @@ sv-SE:
   assign_taxons: "Tilldela underkategorier"
   authorization_failure: "Du är inte auktoriserad att utföra denna åtgärd"
   authorized: Auktoriserad
-  available_on: "Available On" # Eng
+  available_on: "Synlig från" # Eng
   available_taxons: "Tillgängliga underkategorier"
   awaiting_return: Väntar på retur # Eng
   back: Tillbaka
@@ -293,10 +293,10 @@ sv-SE:
   by_day: "by day" # Eng
   calculator: Kalkylator # Eng Is this a good translation?
   calculator_settings_warning: "Om du ändra kalkylatortypen, måste du först spara innan du kan ändra kalkylatorinställningar"
-  cancel: avbryt
-  cancel_my_account: Avbryt mitt konto
+  cancel: Annullera
+  cancel_my_account: Ta bort mitt konto
   cancel_my_account_description: "Inte nöjd?"
-  canceled: Avbruten
+  canceled: Borttaget
   cannot_create_returns: Kan inte returnera ordern eftersom den inte har levererats än.
   cannot_destory_line_item_as_inventory_units_have_shipped: Cannot destory line item as some inventory units have shipped. # Eng
   cannot_perform_operation: "Kan inte utföra efterfrågad aktivitet"
@@ -425,7 +425,7 @@ sv-SE:
   finalized_payments: Fastställda betalningar
   first_item: Första artikelns kostnad # Eng ?
   first_name: "Förnamn"
-  first_name_begins_with: "Förnamn Börjar Med"
+  first_name_begins_with: "Förnamn börjar med"
   flat_percent: "Fast procentsats"
   flat_rate_amount: Belopp
   flat_rate_per_item: "Fast pris (per artikel)"
@@ -433,7 +433,7 @@ sv-SE:
   flexible_rate: "Flexibelt pris"
   forgot_password: "Glömt Lösenord?"
   free_shipping: Gratis frakt
-  from_state: Från staten
+  from_state: Från status
   front_end: Affärsgränssnitt
   full_name: "Namn"
   gateway: Gateway
@@ -670,10 +670,10 @@ sv-SE:
     void: annulerad
   payment_updated: Betalning uppdaterad
   payments: Betalningar
-  pending_payments: Pending Payments # Eng
+  pending_payments: Förestående betalningar
   permalink: Permalink
   phone: Telefon
-  place_order: Placera order
+  place_order: Lägg order
   please_create_user: "Var god skapa ett användarkonto"
   powered_by: "Powered by"
   presentation: Presentation
@@ -973,14 +973,14 @@ sv-SE:
   ssl_will_be_used_in_production_mode: "SSL kommer att användas i produktionsläge"
   ssl_will_not_be_used_in_development_and_test_modes: "SSL kommer inte att användas i utvecklings- och testläge om nödvändigt."
   ssl_will_not_be_used_in_production_mode: "SSL kommer inte att användas i produktionsläge"
-  start: Starta
+  start: Början
   start_date: Giltig från
   state: Delstat
   state_based: "Delstat-baserad"
   state_setting_description: "Hantera listan av stater/regioner som ska höra till varje land"
   states: Stater
   status: Status
-  stop: Stopp
+  stop: Slut
   store: Affär
   street_address: "Adress"
   street_address_2: "Adress (forts.)"
@@ -1019,7 +1019,7 @@ sv-SE:
   to_add_variants_you_must_first_define: "För att lägga till varianter måste du först definiera"
   to_state: "Till status" # Eng status? Or is stat what they mean?
   top_grossing_products: "Storsäljande produkter"
-  total: Deltotal
+  total: Summa
   tracking: Spårning
   transaction: Transaktion
   transactions: Transaktioner
