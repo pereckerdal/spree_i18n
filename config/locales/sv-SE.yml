@@ -855,7 +855,7 @@ sv-SE:
   remove: Ta bort
   reports: Rapporter
   required_for_solo_and_maestro: Krävs för Solo- och Maestro-kort.
-  resend: Skicka igen
+  resend: Återutskick
   resend_confirmation_instructions: "Återskicka bekräftelseinstruktioner"
   resend_unlock_instructions: "Återskicka upplåsningsinstruktioner"
   reset_password: "Återställ mitt lösenord"
