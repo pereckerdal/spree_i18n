@@ -468,7 +468,7 @@ sv-SE:
   inventory_adjustment: "Inventariejustering"
   inventory_setting_description: "Inventarieinställningar, restnotering, slut-på-lager-visning"
   inventory_settings: "Inventarieinställningar"
-  is_not_available_to_shipment_address: är inte tillgänglig till fraktadress
+  is_not_available_to_shipment_address: är inte tillgänglig till leveransadress
   issue_number: Issue Nummer # Eng
   item: Artikel
   item_description: "Artikelbeskrivning"
